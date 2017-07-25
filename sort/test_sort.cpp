@@ -3,6 +3,7 @@
 using std::cout;
 using std::cin;
 using std::endl;
+using std::string;
 
 void print(int A[], int n){
   for(int i = 0; i < n; i++)
